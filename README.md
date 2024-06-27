@@ -16,6 +16,13 @@
 | 2017-2017   | **Specialization of Machine Learning, University of Washington (Coursera)**<br/>Grade: 100%                                                                                                                                            |
 | 2009-2014   | **Bachelors of Science in Aerospace & Aeronautics Engineering, Cairo University**<br/>Grade: Very Good (Egyptian System)<br/>Thesis Project: Cairo University Cube-Satellite (Onboard Computer Subsystem)<br/>Thesis score: Excellent  |
 
+### Publications:
+| Year | Publication                                                                                                                                                                                                                                                                                                                       |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2019 | A Mission Concept for Road-side Waste Detection & Action Planning Using Networked Mobile Robots - [Workshop] Advances and Challenges on the Development, Testing and Assessment of Internet of Robotic Things (IoRT): Experiences from Engineering and Human Science Research, IEEE ICRA ‘19, Montreal Convention Centre, Canada. |
+| 2018 | A Kinect-Based 3D Object Detection and Recognition System with Enhanced Depth Estimation Algorithm – IEEE IEMCON '18, University of British Columbia, Canada.                                                                                                                                                                     |
+| 2014 | MENA Renewable Energy Source Mapping Via Nano-Satellite Remote Sensing – 3rd Mission Idea Contest, Kyushu Institute of Technology, Japan.                                                                                                                                                                                         |
+
 ### Languages:
 - **Arabic:** Mother tongue.
 - **English:** Full professional proficiency.
