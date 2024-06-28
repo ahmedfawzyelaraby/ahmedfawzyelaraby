@@ -23,6 +23,30 @@
 | 2018 | A Kinect-Based 3D Object Detection and Recognition System with Enhanced Depth Estimation Algorithm – IEEE IEMCON '18, University of British Columbia, Canada.                                                                                                                                                                     |
 | 2014 | MENA Renewable Energy Source Mapping Via Nano-Satellite Remote Sensing – 3rd Mission Idea Contest, Kyushu Institute of Technology, Japan.                                                                                                                                                                                         |
 
+### Skills:
+- Software/system Design
+- C/C++, Java, Bash, Python and LaTeX
+- Linux and Ubuntu.
+- Kubernetes and Docker
+- GRPC/Protobuff, OpenCV, ROS, Apache Storm, Apache Thrift and Boost
+- Matlab/Octave & Simulink
+- Cmake, Ant and Maven
+- Version Control (i.e. Git, GitHub and GitLab)
+- Continuous Integration using GitLab runners and GitHub workflows
+- Amazon Web Services, Microsoft Azure and Google Cloud
+
+### Volunteering Experience:
+| Year | Volunteering Experience                                                                                                                                                                                                                                                                                                                                                    |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2022 | **Presenter, Amazon Hour of Code ‘22**<br/>Presented a simplified Amazon prepared introduction to computer science lesson for high school students as part of the global hour of code initiative.                                                                                                                                                                          |
+| 2020 | **Judge, NASA Space Apps Cairo ‘20**<br/>Judged teams in “Connect” challenges category, working on developing interactive tools to explain the challenges in communication between earth and mars as well as working on developing tools to represent satellites orbiting the earth and data about each one of them.                                                       |
+| 2019 | **Volunteer, Maker Faire Cairo ‘19**<br/>Volunteered in preparing and maintaining ROV and Minesweepers competitions during a family friendly event to showcase inventions, creativity and resourcefulness across all fields.                                                                                                                                               |
+| 2019 | **Judge, Cairo VEX Robotics Competition '19**<br/>Judged teams in VEX IQ challenge, working on a robot whose role is to collect hubs and bonus hubs from the arena into the two building zones and hang the robot in the hanging area in order to get the maximum possible score.                                                                                          |
+| 2018 | **Team Mentor, NASA Space Apps Cairo '18**<br/>Mentored three teams in “Can You Build A” challenges category, working on nature inspired robotic solutions that are capable of inspecting ISS like space buildings and on robotic solutions to help astronauts on Mars to discover the nature around them.                                                                 |
+| 2018 | **Team Mentor, Made In Egypt Competition '18**<br/>Mentored one team in the embedded systems track. The team's idea is to design and implement neural networks that can recognize facial expressions and can calculate eye contact time using images stream from a camera. These neural networks were intended to be deployed on glasses like google glasses or VR glasses |
+| 2018 | **Judge, Cairo VEX Robotics Competition '18**<br/>Judged teams in VEX IQ challenge, working on a robot whose role is to collect colored rings from the field and put them in score floors or posts in order to get the maximum possible score.                                                                                                                             |
+| 2017 | **Team Mentor, NASA Space Apps Cairo '17**<br/>Mentored two teams in "Where's the Water - Planetary Blues" challenge, working on analyzing satellite data to identify nearby water resources.                                                                                                                                                                              |
+
 ### Languages:
 - **Arabic:** Mother tongue.
 - **English:** Full professional proficiency.
