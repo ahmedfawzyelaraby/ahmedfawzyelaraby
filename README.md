@@ -25,7 +25,8 @@
 
 ### Skills:
 - Software/system Design
-- C/C++, Java, Bash, Python and LaTeX
+- C/C++, Java, Scala, Bash, Python and LaTeX
+- Amazon Web Services (i.e. Lambda, Glue, Step Functions and Bedrock)
 - Linux and Ubuntu.
 - Kubernetes and Docker
 - GRPC/Protobuff, OpenCV, ROS, Apache Storm, Apache Thrift and Boost
